@@ -1,6 +1,6 @@
 # exhibitions
 
-Design Museum Gent, is committed to making its data available for public access. By being able to see 'everything' at once, new connections and understandings may be able to be made/ 
+Design Museum Gent, is committed to making its data available for public access. By being able to see 'everything' at once, new connections and understandings may be able to be made.
 
 ## usage guidelines 
 
@@ -14,3 +14,7 @@ Some general guidelines for use:
 * Understand that they use the data at their own risk.
 
 Please be aware that images are not included. While we have provided a way to reference the images connected to the records, these images themselves are not part of the dataset being released and are not covered by the same license.
+
+## data formats
+
+we provide exhibition data in csv format. We are currently developing a strategy that will enable us to also provide that same data but enhanced as a JSON-LD.  
