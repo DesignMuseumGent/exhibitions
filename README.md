@@ -1,6 +1,6 @@
 # exhibitions
 
-Design Museum Gent, is committed to making its data available for public access. By being able to see 'everything' at once, new connections and understandings may be able to be made.
+Design Museum Gent, is committed to making its data available for public access. By being able to see 'everything' at once, new connections and understandings may be able to be made. This list is far from complete but we do our best to provide as much data as possible. 
 
 ## usage guidelines 
 
