@@ -1,24 +1,27 @@
-"artist", "artist_QID", "title", "start_date", "end_date", "source_url"
-"De Cleene, Michiel",Q55236231,Two explanted pacemakers taking each other for a heart,2017-09-01,2017-09-17,https://019-ghent.org/billboards/transitory-nature-three-selected-episodes-from-reference-guide-a-growing-encyclopedia-on-ships-forests-and-pacemakers/
-"Eatock, Daniel",Q107507469,Visible Vehicle Repair,2018-01-O8,2018-03-22,https://019-ghent.org/billboards/visible-vehicle-repair/
-"Debeer, Lydia",Q98163946,Absence Makes The Heart Grow Fonder,2017-08-10,2017-08-26,https://019-ghent.org/billboards/absence-makes-the-heart-grow-fonder/
-"Martens, Karel",Q3193071,Motion,2017-06-29,2017-07-30,https://019-ghent.org/billboards/motion/
-"Küng, Moritz",Q98163937,Selección Natural – This is the Cover of the Book,2017-05-18,2017-06-22,https://019-ghent.org/billboards/seleccion-natural-this-is-the-cover-of-the-book/
-Jan und Randoald,NULL,JUR,2017-10-27,2017-12-15,https://019-ghent.org/billboards/jur/
-"Meganck, Ine",Q107507487,Ghost (Family) Paintings,2018-04-06,2018-05-18,https://019-ghent.org/billboards/ghost-family-paintings/
-Experimental Jetset,Q77353508,You are Here / You are Now,2018-05-18,2018-07-31,https://019-ghent.org/billboards/you-are-here-you-are-now-2/
-"Criel, Bieke",Q107507560,"Mylar Silver 5,7 X 7,3",2018-08-06,2018-08-06,https://019-ghent.org/billboards/mylar-silver-57-x-73/
-"Amado, Bráulio",Q107507671,≃01:05:24,2018-08-06,2018-10-06,https://019-ghent.org/billboards/%e2%89%83010524/
-Werkplaats Typografie,NULL,Moriz Oberberger,2018-10-21,2018-11-21,https://019-ghent.org/billboards/werkplaats-typografie-moriz-oberberger/
-"Kurant, Agnieszka",Q19267078,The Half Life Of Facts,2019-02-01,2019-05-10,https://019-ghent.org/billboards/the-half-life-of-facts/
-"Cox, Ines",Q98106321,Show,2019=06-21,2019-09-20,https://019-ghent.org/billboards/show/
-"Dujardin, Filip",Q1819619,Memorial IV,2019-09-21,2019-11-15,https://019-ghent.org/billboards/memorial-iv/
-Talking Letterheads,NULL,Phantom Radio,2020=01-24,2020-03-03,https://019-ghent.org/billboards/talking-letterheads/
-"Bray, Kévin",NULL,It Is an Imbroglio,2020-03-03,2020-05-20,https://019-ghent.org/billboards/it-is-a-imbroglio/
-"De Baets, Bart",Q107508178,x! (Composition with lost signs and pencils),2020-10-28,2021-01-07,https://019-ghent.org/billboards/bart-de-baets/
-"De Bondt, Sara",Q98106369,Off The Grid,2019=11-15,2020-01-24,https://019-ghent.org/billboards/off-the-grid/
-Jiri Mocek: Jiri Mocek,Q95215510,Nothing Ever Lasts Forever,2020-05-20,2020-07-20,https://019-ghent.org/billboards/jiri-mocek/
-"Specht, Stephanie",Q107508200,Location Does Not Matter.,2020-07-25,2020-01-10,https://019-ghent.org/billboards/stephanie-specht/
-"Mahieu, Corbin | Van Den Bossche, Lennart",NULL,Typographical Orgy,2021-05-04,2021-07-05,https://019-ghent.org/billboards/corbin-mahieu-lennart-van-den-bossche/
-"Langdon, James ",NULL,"Female head, Cypriot, early 5th century B.C., rendered in limestone pixels",2021-02-16,2021-04-18,https://019-ghent.org/billboards/james-langdon/
-"Verhelst, Victor", Q107547942, "The Floor is Lava", NULL, NULL, NULL
+"artist", "artist_QID", "title", "start_date", "end_date", "source_url", "description(EN)"
+"De Cleene, Michiel",Q55236231,Two explanted pacemakers taking each other for a heart,2017-09-01,2017-09-17,https://019-ghent.org/billboards/transitory-nature-three-selected-episodes-from-reference-guide-a-growing-encyclopedia-on-ships-forests-and-pacemakers/, ""
+"Eatock, Daniel",Q107507469,Visible Vehicle Repair,2018-01-O8,2018-03-22,https://019-ghent.org/billboards/visible-vehicle-repair/, ""
+"Debeer, Lydia",Q98163946,Absence Makes The Heart Grow Fonder,2017-08-10,2017-08-26,https://019-ghent.org/billboards/absence-makes-the-heart-grow-fonder/, ""
+"Martens, Karel",Q3193071,Motion,2017-06-29,2017-07-30,https://019-ghent.org/billboards/motion/, "Karel Martens has ten hands for every finger. He’s an artist, a typographer, a graphic designer, a bookmaker, and an educator. He co-founded a school. He’s influenced thousands.
+Motion will afford a compound view on an expansive practice, and chart a road map. Yet while all of that spans over 50 years of Martens inter-disciplinary activity, the exhibition will remain grounded firmly in the present (and future).
+Of course, the exhibition will include some representative works – mono-prints of and on found materials, paper reliefs, videos, modular wallpapers, kinetic sculptures, a very early optical work. Consider all of that a contextual substrate that corroborates Marten’s responsive and systematic approach to color, format, type, and material. And his immense influence as an educator will also be centrally positioned within the exhibition, with a selection of publications by his former students displayed on tables Martens designed for the Werkplaats Typografie in Arnhem, NL (the school he co-founded in 1998). Consider all of that a demonstrative charting of influence. The primary focus will be on Martens’ most recent work, with several new commissions – wallpaper made up of multicolored icons, interactive video projections and a massive abstract clock. These works were produced for the exhibition, which was initially organized by Kunstverein München in Munich, while other existing works are being specially reconfigured. It will be immersive – with colour inversions over entire spaces, multiplied by real-time mirroring and attuned with technique, systematic seriality, conceptual operations and a multi-functional zone. 
+In other words, Motion is not intended to display Martens’ practice, but instead as an embodied demonstration of his method."
+"Küng, Moritz",Q98163937,Selección Natural – This is the Cover of the Book,2017-05-18,2017-06-22,https://019-ghent.org/billboards/seleccion-natural-this-is-the-cover-of-the-book/ ,""
+Jan und Randoald,NULL,JUR,2017-10-27,2017-12-15,https://019-ghent.org/billboards/jur/, ""
+"Meganck, Ine",Q107507487,Ghost (Family) Paintings,2018-04-06,2018-05-18,https://019-ghent.org/billboards/ghost-family-paintings/, ""
+Experimental Jetset,Q77353508,You are Here / You are Now,2018-05-18,2018-07-31,https://019-ghent.org/billboards/you-are-here-you-are-now-2/, ""
+"Criel, Bieke",Q107507560,"Mylar Silver 5,7 X 7,3",2018-08-06,2018-08-06,https://019-ghent.org/billboards/mylar-silver-57-x-73/, ""
+"Amado, Bráulio",Q107507671,≃01:05:24,2018-08-06,2018-10-06,https://019-ghent.org/billboards/%e2%89%83010524/, ""
+Werkplaats Typografie,NULL,Moriz Oberberger,2018-10-21,2018-11-21,https://019-ghent.org/billboards/werkplaats-typografie-moriz-oberberger/, ""
+"Kurant, Agnieszka",Q19267078,The Half Life Of Facts,2019-02-01,2019-05-10,https://019-ghent.org/billboards/the-half-life-of-facts/, ""
+"Cox, Ines",Q98106321,Show,2019=06-21,2019-09-20,https://019-ghent.org/billboards/show/, ""
+"Dujardin, Filip",Q1819619,Memorial IV,2019-09-21,2019-11-15,https://019-ghent.org/billboards/memorial-iv/, ""
+Talking Letterheads,NULL,Phantom Radio,2020=01-24,2020-03-03,https://019-ghent.org/billboards/talking-letterheads/, ""
+"Bray, Kévin",NULL,It Is an Imbroglio,2020-03-03,2020-05-20,https://019-ghent.org/billboards/it-is-a-imbroglio/, ""
+"De Baets, Bart",Q107508178,x! (Composition with lost signs and pencils),2020-10-28,2021-01-07,https://019-ghent.org/billboards/bart-de-baets/, ""
+"De Bondt, Sara",Q98106369,Off The Grid,2019=11-15,2020-01-24,https://019-ghent.org/billboards/off-the-grid/, ""
+Jiri Mocek: Jiri Mocek,Q95215510,Nothing Ever Lasts Forever,2020-05-20,2020-07-20,https://019-ghent.org/billboards/jiri-mocek/, ""
+"Specht, Stephanie",Q107508200,Location Does Not Matter.,2020-07-25,2020-01-10,https://019-ghent.org/billboards/stephanie-specht/, ""
+"Mahieu, Corbin | Van Den Bossche, Lennart",NULL,Typographical Orgy,2021-05-04,2021-07-05,https://019-ghent.org/billboards/corbin-mahieu-lennart-van-den-bossche/, ""
+"Langdon, James ",NULL,"Female head, Cypriot, early 5th century B.C., rendered in limestone pixels",2021-02-16,2021-04-18,https://019-ghent.org/billboards/james-langdon/, ""
+"Verhelst, Victor", Q107547942, "The Floor is Lava", NULL, NULL, NULL, ""
