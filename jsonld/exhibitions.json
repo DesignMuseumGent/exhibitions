@@ -1,0 +1,7358 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1925-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "musee des arts industriels & decoratifs"
+      }
+    },
+    "name": {
+      "fr": "2me salon d'Art decoratif"
+    },
+    "startDate": "1925-04-19",
+    "endDate": "1925-05-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1926-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "musee des arts industriels & decoratifs"
+      }
+    },
+    "name": {
+      "fr": "3me Salon d'Art Decoratif"
+    },
+    "startDate": "1926-04-18",
+    "endDate": "1926-05-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1928-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "musee des arts industriels & decoratifs"
+      }
+    },
+    "name": {
+      "fr": "4me Salon d'Art decoratif"
+    },
+    "startDate": "1928-04-19",
+    "endDate": "1928-05-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1930-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "musee des arts industriels & decoratifs"
+      }
+    },
+    "name": {
+      "fr": "Exposition de l'epoque romantique 1820.1830.1840"
+    },
+    "startDate": "1930-11-01",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1930-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "musee des arts industriels & decoratifs"
+      }
+    },
+    "name": {
+      "fr": "5me Salon de l'Art du Mobilier - Chez un Fabricant Gantois vers 1830"
+    },
+    "startDate": "1930-11-01",
+    "endDate": "1930-12-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1939-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaagse Decoratieve Kunst te Gent"
+    },
+    "startDate": "1939-02-05",
+    "endDate": "1939-02-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1939-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Geweefsels en aardewerk"
+    },
+    "startDate": "1939-04-23",
+    "endDate": "1939-04-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1939-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstspeelgoed",
+      "fr": "Une exposition de jouets Artistiques"
+    },
+    "startDate": "1939-11-23",
+    "endDate": "1939-12-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1940-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Volksprenten"
+    },
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1940-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Wedstrijd voor aanplakbrief - gemeentefeesten 1940"
+    },
+    "startDate": "1940-04-21",
+    "endDate": "1940-04-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1940-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Sierkunst"
+    },
+    "startDate": "1940-11-21",
+    "endDate": "1940-12-08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1940-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Kunst Photos"
+    },
+    "startDate": "1940-12-22",
+    "endDate": "1940-12-31"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1940-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Gentsch Photosalon"
+    },
+    "startDate": "1941-06-22",
+    "endDate": "1941-07-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1941-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "De Kunstenaar en de Grafiek"
+    },
+    "startDate": "1941-06-22",
+    "endDate": "1941-07-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1941-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Modelboten"
+    },
+    "startDate": "1941-07-19",
+    "endDate": "1941-08-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1942-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Algemene Tentoonstelling van Kunst-Foto's - Algemeeen Kunstphoto-salon"
+    },
+    "startDate": "1941-12-21",
+    "endDate": "1942-01-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1942-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Jonge Sierkunstenaars"
+    },
+    "startDate": "1942-01-25",
+    "endDate": "1942-02-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1942-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Boekverluchting en Publiciteit  van de Nationale Hoogere School voor Bouw en Sierkunsten Brussel"
+    },
+    "startDate": "1942-03-09",
+    "endDate": "1942-03-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1942-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Winterhulp Gent - Tentoonstelling van Binnenshuiskunst"
+    },
+    "startDate": "1942-07-19",
+    "endDate": "1942-08-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1942-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstspeelgoed en Kinderboeken"
+    },
+    "startDate": "1942-11-15",
+    "endDate": "1942-11-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1943-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Grafische Werken van Frans Dille - Helene Van Coppenolle - Gust. Van Roosebroeck"
+    },
+    "startDate": "1943-03-21",
+    "endDate": "1943-04-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1943-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Volksbeelden en Volksprenten - Volksprenten en Volksbeelden Vroeger en Nu"
+    },
+    "startDate": "1943-07-18",
+    "endDate": "1943-08-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1944-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Belgisch - Candadeesche Tentoonstelling van Schilderijen Beeldhouwwerken, tekeningen en Etsen",
+      "fr": "Exposition Belgo-Canadienne de peintures, sculptures, Dessins et Gravures"
+    },
+    "startDate": "1944-12-03",
+    "endDate": "1944-12-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1945-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Retrospectieve tentoonstelling van Fotoclub Vooruit"
+    },
+    "startDate": "1945-02-04",
+    "endDate": "1945-02-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1945-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling voor de bevrijding",
+      "fr": "Avant la Liberation"
+    },
+    "startDate": "1945-02-16",
+    "endDate": "1945-02-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1945-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van het Belgisch Foto- en Kinoverbond",
+      "fr": "Association Belge de Photographie et de Cinematographie"
+    },
+    "startDate": "1945-05-20",
+    "endDate": "1945-05-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1945-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Het Ballet"
+    },
+    "startDate": "1945-06-03",
+    "endDate": "1945-06-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1945-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Gentsche Stadszichten voor de Xxe eeuw",
+      "fr": "Expositions de Vues de Gand anterieures au Xxe siecle"
+    },
+    "startDate": "1945-07-15",
+    "endDate": "1945-07-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1945-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Oude Weefkunst",
+      "fr": "Tissus Anciens"
+    },
+    "startDate": "1945-11-18",
+    "endDate": "1945-11-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1945-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Postzegeltentoonstelling"
+    },
+    "startDate": "1945-12-08",
+    "endDate": "1945-12-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1945-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "XXIIe Fotosalon van Fotoclub Vooruit"
+    },
+    "startDate": "1945-12-23",
+    "endDate": "1945-12-31"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1946-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling der uitslagen van de prijskampen van de Provinciale diesnt der Kunstambachten en Kunstnijverheden van Oost-Vlaanderen te Gent"
+    },
+    "startDate": "1946-03-31",
+    "endDate": "1946-04-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1946-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hendgeweefsels - Lakwerk - Brandschilderkunst",
+      "fr": "Tissus a la main - Laques - Emaux"
+    },
+    "startDate": "1946-05-05",
+    "endDate": "1956-05-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1946-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunst en Kennis"
+    },
+    "startDate": "1946-07-21",
+    "endDate": "1946-08-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1946-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling der Photo's van Vermisten"
+    },
+    "startDate": "1946-08-10",
+    "endDate": "1946-08-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1946-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Ontwerpen voor Stoffen - tentoonstelling van ontwerpen"
+    },
+    "startDate": "1946-09-01",
+    "endDate": "1946-09-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1946-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "tentoonstelling van Oudheden"
+    },
+    "startDate": "1946-12-08",
+    "endDate": "1946-12-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Provinciale prijs voor Plastische Kunst"
+    },
+    "startDate": "1946-12-29",
+    "endDate": "1947-01-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Grafiek"
+    },
+    "startDate": "1947-01-12",
+    "endDate": "1947-01-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Medailles van de munt te Parijs",
+      "fr": "Medailles de la monnaie De Paris"
+    },
+    "startDate": "1947-01-24",
+    "endDate": "1947-02-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Militaire Volksprenten"
+    },
+    "startDate": "1947-03-30",
+    "endDate": "1947-04-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Oscar Bonnevalle"
+    },
+    "startDate": "1947-04-27",
+    "endDate": "1947-05-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling Stedenbouw: Haven - Toerisme -Folklore"
+    },
+    "startDate": "1947-07-20",
+    "endDate": "1947-08-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling der Schoenmakersbazen"
+    },
+    "startDate": "1947-08-17",
+    "endDate": "1947-08-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Collectieve Tentoonstelling van plastische en toegepaste kunst"
+    },
+    "startDate": "1947-09-13",
+    "endDate": "1947-09-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nationale tentoonstelling van Kunsteberoepscholen en Beroepsscholen met Kunstkarakter"
+    },
+    "startDate": "1947-10-05",
+    "endDate": "1947-10-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Etienne Noel - Aquarellist en Meester-potbakker",
+      "fr": "Etienne Noel - Aquarelliste et maitre-potier"
+    },
+    "startDate": "1947-10-12",
+    "endDate": "1947-10-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Aardewerk van de Maitrise de Nimy",
+      "fr": "Ceramiques de la Maitrise de Nimy"
+    },
+    "startDate": "1947-10-26",
+    "endDate": "1947-11-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1947-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nationale wedstrijd voor Architectuur 1947 en van de Nationale Werven"
+    },
+    "startDate": "1947-11-15",
+    "endDate": "1947-11-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Stedelijk Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "De Wereld van de Druk"
+    },
+    "startDate": "1948-01-10",
+    "endDate": "1948-01-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor decoratieve Kunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Tekeningen van Engelse Kinderen"
+    },
+    "startDate": "1948-02-08",
+    "endDate": "1948-02-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor decoratieve Kunst"
+      }
+    },
+    "name": {
+      "nl": "Moderne Franse Tapijten",
+      "fr": "Exposition Des Tapisseries Francaises"
+    },
+    "startDate": "1948-03-04",
+    "endDate": "1948-04-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor nijverheids- en Decoratieve Kunst"
+      }
+    },
+    "name": {
+      "nl": "Kunst tentoonstelling ingericht door de Steden Leiden en Nymegem"
+    },
+    "startDate": "1948-03-21",
+    "endDate": "1948-04-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor nijverheids- en Decoratieve Kunst"
+      }
+    },
+    "name": {
+      "fr": "Expositions des Arts Decoratifs"
+    },
+    "startDate": "1948-04-10",
+    "endDate": "1948-04-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum van Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Religieuze Schriftkunst - werken van Chris Brand"
+    },
+    "startDate": "1948-06-09",
+    "endDate": "1948-06-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Feestpaleis, Gravensteen, Museum voor Nijverheids en Decoratieve Kunst"
+      }
+    },
+    "name": {
+      "nl": "Nationale Textieltentoonstelling",
+      "fr": "Exposition Nationale Du Textile",
+      "en": "National Exhibition of Textile"
+    },
+    "startDate": "1948-08-26",
+    "endDate": "1948-09-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum van Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Collectieve tentoonstelling ingericht door Hou ende Trou"
+    },
+    "startDate": "1948-09-18",
+    "endDate": "1948-09-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum van Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "De Opstand der Nederlanden tegen Filips II"
+    },
+    "startDate": "1948-10-19",
+    "endDate": "1948-10-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum van Decoratieve Kunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling der Werken van de Meester-Pottenbakker Achille Petrus"
+    },
+    "startDate": "1948-10-24",
+    "endDate": "1948-11-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum van Decoratieve Kunst"
+      }
+    },
+    "name": {
+      "fr": "L'exposition des Artistes Namurois"
+    },
+    "startDate": "1948-11-14",
+    "endDate": "1948-11-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1948-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum van Decoratieve Kunst"
+      }
+    },
+    "name": {
+      "nl": "2e Nationaal Kerstsalon",
+      "fr": "2e Salon National de Noel"
+    },
+    "startDate": "1948-12-12",
+    "endDate": "1948-12-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1953-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstceramiek van J. Jefferys"
+    },
+    "startDate": "1953-10-17",
+    "endDate": "1953-11-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1953-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Sierkunst"
+    },
+    "startDate": "1953-10-17",
+    "endDate": "1953-11-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1953-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstglaswerk van Lodelinsart"
+    },
+    "startDate": "1953-11-07",
+    "endDate": "1953-12-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1953-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Prijsvraag Ontwerpen voor bedrukte stoffen"
+    },
+    "startDate": "1953-11-28",
+    "endDate": "1953-11-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1953-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Oud Kinderspeelgoed"
+    },
+    "startDate": "1953-11-28",
+    "endDate": "1953-12-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "VIIe Nationaal Kerstsalon voor Kunstfoto's"
+    },
+    "startDate": "1953-12-11",
+    "endDate": "1954-01-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstceramiek van Beernem"
+    },
+    "startDate": "1953-12-13",
+    "endDate": "1954-01-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "G. De Graeve S. en Fr. Piens"
+    },
+    "startDate": "1954-01-16",
+    "endDate": "1954-02-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nationale wedstrijd voor ontwerpen voor Modern Sociaal Meubel"
+    },
+    "startDate": "1954-02-20",
+    "endDate": "1954-03-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nerderlandsche Scheppende Ambacht"
+    },
+    "startDate": "1954-03-27",
+    "endDate": "1954-04-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Elisabeth De Saedeleer"
+    },
+    "startDate": "1954-04-30",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Moderne en Belgische Wandtapijtkunst"
+    },
+    "startDate": "1954-05-15",
+    "endDate": "1954-06-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nijverheidstekenen in de U.S.A."
+    },
+    "startDate": "1954-06-12",
+    "endDate": "1954-07-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Moderne sociale meubelkunst van R. Rubbens en A. De Mey"
+    },
+    "startDate": "1954-07-10",
+    "endDate": "1954-08-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Goede Vormen"
+    },
+    "startDate": "1954-08-07",
+    "endDate": "1954-08-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Moderne Sociale Interieursinrichting van Eric Grinwis"
+    },
+    "startDate": "1954-09-03",
+    "endDate": "1954-09-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "J & M-J. Van De Veegaete"
+    },
+    "startDate": "1954-10-09",
+    "endDate": "1954-11-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-013",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Italiaanse Nijverheidskunst"
+    },
+    "startDate": "1954-10-09",
+    "endDate": "1954-11-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-014",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaagse Professionele Architectuur"
+    },
+    "startDate": "1954-11-13",
+    "endDate": "1954-12-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-015",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunsten, Kursaal Oostende"
+      }
+    },
+    "name": {
+      "nl": "Amerikaans Design"
+    },
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1954-016",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum der Sierkunsten"
+      }
+    },
+    "name": {
+      "nl": "Kunstambachten en Kunstnijverheden"
+    },
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Internationaal Kerstsalon voor Kunstfoto's"
+    },
+    "startDate": "1954-12-11",
+    "endDate": "1955-01-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nationaal Salon voor Moderne Sociale Meubelkunst"
+    },
+    "startDate": "1955-02-04",
+    "endDate": "1955-02-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Isaline Samyn Delmotte"
+    },
+    "startDate": "1955-03-05",
+    "endDate": "1955-03-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Ottokar Grabner"
+    },
+    "startDate": "1955-03-05",
+    "endDate": "1955-03-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Moderne Canadese Interieurkunst"
+    },
+    "startDate": "1955-04-03",
+    "endDate": "1955-05-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Joris Minne en leerlingen"
+    },
+    "startDate": "1955-04-03",
+    "endDate": "1955-06-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstkeramiek van Picasso"
+    },
+    "startDate": "1955-05-01",
+    "endDate": "1955-07-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Creatief Kinderspel"
+    },
+    "startDate": "1955-05-07",
+    "endDate": "1955-06-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Amerikaanse Karikutaristen"
+    },
+    "startDate": "1955-06-06",
+    "endDate": "1955-07-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstmetaal van Richard De Meyer en Charles Bressous"
+    },
+    "startDate": "1955-06-11",
+    "endDate": "1955-06-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Roemeense Volkskunst"
+    },
+    "startDate": "1955-08-27",
+    "endDate": "1955-09-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nieuwe Franse Binnsenhuiskunst"
+    },
+    "startDate": "1955-10-15",
+    "endDate": "1955-11-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "J. Dries en W. Meysmans"
+    },
+    "startDate": "1955-11-19",
+    "endDate": "1955-12-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1955-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nationale wedstrijd voor een aanplakbrief"
+    },
+    "startDate": "1955-11-19",
+    "endDate": "1955-12-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nieuw werk van V. Stuyvaert"
+    },
+    "startDate": "1955-12-18",
+    "endDate": "1956-01-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Mozart Concert"
+    },
+    "startDate": "1956-08-05",
+    "endDate": "1956-08-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaagese Duitse Ceramiek"
+    },
+    "startDate": "1956-08-11",
+    "endDate": "1956-09-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstmaskers van P. Toebent"
+    },
+    "startDate": "1956-08-11",
+    "endDate": "1956-09-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Scaldis"
+    },
+    "startDate": "1956-09-07",
+    "endDate": "1956-09-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Roger Bonduel"
+    },
+    "startDate": "1956-10-10",
+    "endDate": "1956-11-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "A.R. Katz"
+    },
+    "startDate": "1956-10-10",
+    "endDate": "1956-11-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tibor Dengyel"
+    },
+    "startDate": "1956-11-09",
+    "endDate": "1956-11-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1956-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Amerikaanse Grafische Kunst (20ste eeuw)"
+    },
+    "startDate": "1956-11-09",
+    "endDate": "1956-11-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1957-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Michel Martens - glas in beton glas in lood."
+    },
+    "startDate": "1956-12-08",
+    "endDate": "1957-01-08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1957-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en Industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "verzameling F. Bost"
+    },
+    "startDate": "1957-07-01",
+    "endDate": "1957-08-20"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1957-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Rotterdamse Grafische Kunst"
+    },
+    "startDate": "1957-08-18",
+    "endDate": "1957-09-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1957-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "E. Creado"
+    },
+    "startDate": "1957-10-26",
+    "endDate": "1957-11-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1958-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "11de Nationaal Kerstsalon"
+    },
+    "startDate": "1957-12-14",
+    "endDate": "1958-01-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1958-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling van Rederijkersarchief"
+    },
+    "startDate": "1958-06-08",
+    "endDate": "1958-06-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1962-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "Affiches 1900"
+    },
+    "startDate": "1962-02-03",
+    "endDate": "1962-02-18"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1963-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "Antoine De Vinck"
+    },
+    "startDate": "1963-01-18",
+    "endDate": "1963-02-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1963-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Oud Gent.  Lithographi\u00ebn door A. Heins 1856-1938"
+    },
+    "startDate": "1963-02-15",
+    "endDate": "1963-03-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1963-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "Michel Seuphor -  Wandtapijten, schilderkunst, grafiek"
+    },
+    "startDate": "1963-08-17",
+    "endDate": "1963-09-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1963-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "Griekse Meubelkunst"
+    },
+    "startDate": "1963-11-15",
+    "endDate": "1963-12-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1963-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "Openstelling van een triptiek"
+    },
+    "startDate": "1963-11-15",
+    "endDate": "1963-12-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1966-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "Uw Troon"
+    },
+    "startDate": "1966-05-26",
+    "endDate": "1966-06-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1966-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "\"De Vijf\""
+    },
+    "startDate": "1966-07-15",
+    "endDate": "1966-09-18"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1967-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "ch. de hemptine"
+    },
+    "startDate": "1967-03-04",
+    "endDate": "1967-03-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1967-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst en industriele Vormgeving"
+      }
+    },
+    "name": {
+      "nl": "Wandtapijten van Gotiek tot Abstrakt"
+    },
+    "startDate": "1967-06-10",
+    "endDate": "1967-09-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": NaN,
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": NaN
+      }
+    },
+    "name": {},
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1957-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Salon van de duitse kunstambachten"
+    },
+    "startDate": "1957-05-10",
+    "endDate": "1957-05-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1967-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": NaN
+      }
+    },
+    "name": {
+      "nl": "Pools Tapijtwerk"
+    },
+    "startDate": "1967-03-03",
+    "endDate": "1967-03-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1977-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": NaN
+      }
+    },
+    "name": {
+      "nl": "KeramiekKunst in het meetjesland"
+    },
+    "startDate": "1977-10-29",
+    "endDate": "1977-11-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1977-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tijdelijke tentoonstelling recente aanwinsten: Meubilair ontworpen door Henry van de Velde"
+    },
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1977-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "24 juwelen"
+    },
+    "startDate": "1977-07-02",
+    "endDate": "1977-09-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1977-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling Art Nouveaux - Openbaar Kunstbezit"
+    },
+    "startDate": "1977-09-30",
+    "endDate": "1977-10-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1978-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Textilia in Gents Openbaar Bezit"
+    },
+    "startDate": "1977-11-26",
+    "endDate": "1978-01-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1978-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Keramiek van Carmen Dionyse"
+    },
+    "startDate": "1978-02-10",
+    "endDate": "1978-03-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1978-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Architektuur te Gent - Analyses"
+    },
+    "startDate": "1978-03-24",
+    "endDate": "1978-04-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1978-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Internationale Keramiekwedstrijd Faenza 1977: vier Laureaten Rik Vanwege, Marc Feulien, Denise Cromheecke, Antoine Crul"
+    },
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1978-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Gaston Eysselinck (1907-1953) - architekt en meubeldesigner"
+    },
+    "startDate": "1978-06-23",
+    "endDate": "1978-10-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1978-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Provinciale Prijs 1978 voor Kunstambachten - Juweelontwerpers"
+    },
+    "startDate": "1978-11-01",
+    "endDate": "1978-11-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1979-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Meubelen Emile Veranneman"
+    },
+    "startDate": "1978-10-28",
+    "endDate": "1979-01-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1979-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Yvette Lauwaert"
+    },
+    "startDate": "1979-03-10",
+    "endDate": "1979-04-08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1979-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Philippe Wolfers"
+    },
+    "startDate": "1979-05-11",
+    "endDate": "1979-06-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1979-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Veertien Noorse Keramisten"
+    },
+    "startDate": "1979-06-15",
+    "endDate": "1979-09-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1979-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Leerdam Unica"
+    },
+    "startDate": "1979-06-16",
+    "endDate": "1979-09-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1979-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Provinciale Prijs textielkunst 1979"
+    },
+    "startDate": "1979-11-08",
+    "endDate": "1979-12-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1979-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Plechtige opening van de nieuwe museumafdeling Textiel"
+    },
+    "startDate": "1979-12-14",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1980-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Glasramen van Armand Blondeel"
+    },
+    "startDate": "1979-12-14",
+    "endDate": "1980-02-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1980-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Huib Hoste (1881-1957) - Architektuur en Meubels"
+    },
+    "startDate": "1980-03-07",
+    "endDate": "1980-05-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1980-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "25 jaar Pieter de Bruyne Meubels"
+    },
+    "startDate": "1980-06-06",
+    "endDate": "1980-10-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1981-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "European Illustration 80/81"
+    },
+    "startDate": "1981-03-20",
+    "endDate": "1981-04-20"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1981-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Keramiek in Belgie 1945-60"
+    },
+    "startDate": "1981-06-06",
+    "endDate": "1981-09-20"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1982-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Keramiek van Achiel Pauwels"
+    },
+    "startDate": "1981-10-16",
+    "endDate": "1982-01-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1982-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Vorm en Geometrie in de Oud-Egyptische Meubelkunst"
+    },
+    "startDate": "1982-06-18",
+    "endDate": "1982-09-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1982-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Gotische Meubels, Meubelfragmenten en Textiel uit eigen verzamelingen"
+    },
+    "startDate": "1982-06-18",
+    "endDate": "1982-09-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1982-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaaagse Kleisculpturen"
+    },
+    "startDate": "1982-10-22",
+    "endDate": "1982-12-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1983-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Glas van Bengt Heintze"
+    },
+    "startDate": "1983-02-25",
+    "endDate": "1983-04-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1983-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Chinees Borduurwerk"
+    },
+    "startDate": "1983-01-14",
+    "endDate": "1983-02-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1983-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kermaiek van de SHIPIBO (Peru)"
+    },
+    "startDate": "1983-11-10",
+    "endDate": "1983-12-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": NaN,
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Alvaro SIZA: Architektuur en stadsvernieuwing in Portugal"
+    },
+    "startDate": "1983-11-10",
+    "endDate": "1983-12-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": NaN,
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Mario BOTTA: de Seconda armstoel"
+    },
+    "startDate": "1983-11-10",
+    "endDate": "1983-12-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1983-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Meubels van Richard Beerman"
+    },
+    "startDate": "1984-04-21",
+    "endDate": "1984-06-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1984-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling Provinciale Prijzen 1984 Keramiek en Fotografie"
+    },
+    "startDate": "1984-11-10",
+    "endDate": "1984-12-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1984-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Geo Henderick"
+    },
+    "startDate": "1984-07-14",
+    "endDate": "1984-09-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1985-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Frank Steyaert"
+    },
+    "startDate": "1984-12-15",
+    "endDate": "1985-03-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1985-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Siegfried De Buck"
+    },
+    "startDate": "1984-12-15",
+    "endDate": "1985-03-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1985-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling Provinciale Prijs Glazenierkunst 1985"
+    },
+    "startDate": "1985-10-26",
+    "endDate": "1985-12-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1985-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Attitudes - Juwelen uit Vlaanderen"
+    },
+    "startDate": "1985-06-05",
+    "endDate": "1985-09-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1985-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Flanders Textiles "
+    },
+    "startDate": "1985-10-17",
+    "endDate": "1985-11-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1986-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Piet Stockmans"
+    },
+    "startDate": "1986-03-13",
+    "endDate": "1986-05-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1986-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Opening  nieuwe afdeling - Hedendaagse Keramiek"
+    },
+    "startDate": "1986-02-05",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1986-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tea and Coffee Piazza (Alessi)"
+    },
+    "startDate": "1986-05-15",
+    "endDate": "1986-06-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1986-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Juweelkunst in Belgie - Van Gotiek tot Heden"
+    },
+    "startDate": "1986-06-27",
+    "endDate": "1986-07-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1986-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Gentiana -  twintig meubels en objecten van studio Alchimia"
+    },
+    "startDate": "1986-10-21",
+    "endDate": "1986-11-21"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1987-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Jonge architekten in Belgie"
+    },
+    "startDate": "1986-12-13",
+    "endDate": "1987-02-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1987-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Meubilair van Paul Hankar"
+    },
+    "startDate": "1987-02-28",
+    "endDate": "1987-04-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1987-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Keramiek van de Finse Kunstenares Kylliki Salman Haara"
+    },
+    "startDate": "1987-04-16",
+    "endDate": "1987-06-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1987-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Het Buismeubel tijdens het Interbellum"
+    },
+    "startDate": "1987-07-17",
+    "endDate": "1987-10-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1987-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Het Museum van de Continue Lijn"
+    },
+    "startDate": "1987-07-17",
+    "endDate": "1987-10-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1987-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Functional Glamour: Gebruiksgoed uit de Verenigde Staten"
+    },
+    "startDate": "1987-07-17",
+    "endDate": "1987-08-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1987-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "S.Fukami"
+    },
+    "startDate": "1987-03-30",
+    "endDate": "1987-04-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1987-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Glas van 1900 tot heden - een selectie uit de collectie"
+    },
+    "startDate": "1987-10-17",
+    "endDate": "1987-11-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1988-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Zsolnay-Keramiek uit Hongarije, Historisme Art Nouveau en Art Deco"
+    },
+    "startDate": "1987-11-27",
+    "endDate": "1988-02-21"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1988-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunst en Tapijt"
+    },
+    "startDate": "1988-03-18",
+    "endDate": "1988-05-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1988-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Legaat Norbert Florent Havermans"
+    },
+    "startDate": "1988-07-13",
+    "endDate": "1988-10-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1988-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Keramiek 88"
+    },
+    "startDate": "1988-11-11",
+    "endDate": "1988-12-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1989-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Renaissance en Barok - Textilia uit eigen bezit"
+    },
+    "startDate": "1988-12-15",
+    "endDate": "1989-03-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1989-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Luc De Blok - Keramiek"
+    },
+    "startDate": "1989-01-27",
+    "endDate": "1989-03-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1989-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Jonge interieurontwerpers"
+    },
+    "startDate": "1988-12-16",
+    "endDate": "1989-02-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1989-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Alchimia - Disegni Di Design"
+    },
+    "startDate": "1989-03-17",
+    "endDate": "1989-05-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1989-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Made in Holland - Gebruikerskeramiek "
+    },
+    "startDate": "1989-06-30",
+    "endDate": "1989-10-08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1989-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Lood & Licht"
+    },
+    "startDate": "1989-06-30",
+    "endDate": "1989-10-08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1989-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Vijf Zweedse keramisten"
+    },
+    "startDate": "1989-03-18",
+    "endDate": "1989-04-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Wiel Arets & Wim van den Bergh"
+    },
+    "startDate": "1989-12-14",
+    "endDate": "1990-02-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nieuwe Meubelvormgeving in Belgie"
+    },
+    "startDate": "1989-12-14",
+    "endDate": "1990-02-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "MEMPHIS"
+    },
+    "startDate": "1990-04-07",
+    "endDate": "1990-05-20"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "De Marches en Escaliers - Fototentoonstelling Rodolphe Hammadi"
+    },
+    "startDate": "1990-05-30",
+    "endDate": "1990-06-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Legaat Havermans - deel 2 - Zilver"
+    },
+    "startDate": "1990-06-23",
+    "endDate": "1990-10-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Cafe noir - The European Coffee Cup"
+    },
+    "startDate": "1990-06-23",
+    "endDate": "1990-10-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Fire"
+    },
+    "startDate": "1990-06-23",
+    "endDate": "1990-10-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Veertien ontwerpen voor Weverij De Ploeg"
+    },
+    "startDate": "1990-06-23",
+    "endDate": "1990-10-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Ranken van Goud, bloemen van zijde"
+    },
+    "startDate": "1990-06-23",
+    "endDate": "1990-10-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nieuw Design in Vlaanderen"
+    },
+    "startDate": "1990-11-01",
+    "endDate": "1990-12-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nieuwe Architektuur"
+    },
+    "startDate": "1990-11-01",
+    "endDate": "1990-12-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunst en Architektuur"
+    },
+    "startDate": "1990-11-01",
+    "endDate": "1990-12-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-013",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Not in production - next to production (Alessi)"
+    },
+    "startDate": "1990-10-18",
+    "endDate": "1990-11-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-014",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Tentoonstelling provinciale prijs Glazenierkunst 1989"
+    },
+    "startDate": "1990-03-09",
+    "endDate": "1990-05-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-015",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Fotografie en architektuur - Gentse kultuurgebouwen gefotografeerd door Reiner Lautwein"
+    },
+    "startDate": "1990-10-27",
+    "endDate": "1990-12-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1990-016",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "22 taptijten van bekende ontwerpers"
+    },
+    "startDate": "1990-10-27",
+    "endDate": "1990-12-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Jonge architekten in Vlaanderen"
+    },
+    "startDate": "1990-12-14",
+    "endDate": "1991-02-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaagse kreatieve juweelkunst in Benelux"
+    },
+    "startDate": "1990-12-14",
+    "endDate": "1991-02-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Treashure Island"
+    },
+    "startDate": "1990-12-14",
+    "endDate": "1991-02-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Glassculpturen van STANISLAV LIBENSKY en JAROSLAVE BRYCHTOVA"
+    },
+    "startDate": "1991-02-23",
+    "endDate": "1991-04-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst (Gruuthuusehuis)"
+      }
+    },
+    "name": {
+      "nl": "Provinciale prijs 1990 Edelsmeedkunst "
+    },
+    "startDate": "1991-03-28",
+    "endDate": "1991-05-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst (Gruuthuusehuis)"
+      }
+    },
+    "name": {
+      "nl": "Hedendaagse Nederlandse Keramiek"
+    },
+    "startDate": "1991-03-28",
+    "endDate": "1991-05-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst (Gruuthuusehuis)"
+      }
+    },
+    "name": {
+      "nl": "Dynamic Plastics van Bakeliet tot High Plast"
+    },
+    "startDate": "1991-03-28",
+    "endDate": "1991-05-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Afrikaanse Skulptuur en Sierkunst"
+    },
+    "startDate": "1991-03-28",
+    "endDate": "1991-05-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Van Papier: Jean Decoster - Bernadette Lambrecht - Louise Dolphijn - Bob Matthysen - Gerard 't Hart "
+    },
+    "startDate": "1991-09-20",
+    "endDate": "1991-10-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst (Gruuthuusehuis) "
+      }
+    },
+    "name": {
+      "nl": "Legaat Havermans deel 3 - Glas & Keramiek - Art Nouveau & Art Deco"
+    },
+    "startDate": "1991-07-09",
+    "endDate": "1991-10-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "17de-eeuws Vlaams Lakmeubilair"
+    },
+    "startDate": "1991-10-24",
+    "endDate": "1991-12-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1991-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaags Glas (Venini, Val St.Lambert, Van Ginnike)"
+    },
+    "startDate": "1991-11-08",
+    "endDate": "1991-12-31"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1992-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Vernieuwing in Zilver, internationale hoogtepunten van de edelsmeedkunst 1880-1940"
+    },
+    "startDate": "1992-05-26",
+    "endDate": "1992-07-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1992-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "100% Make-up (100 vazen van Alessi)"
+    },
+    "startDate": "1992-05-26",
+    "endDate": "1992-07-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1992-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Glas uit Finland, van modern tot heden"
+    },
+    "startDate": "1992-09-08",
+    "endDate": "1992-11-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1992-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Glas van David Palterer"
+    },
+    "startDate": "1992-09-08",
+    "endDate": "1992-11-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Frank Steyaert, keramiek \"Hommages\""
+    },
+    "startDate": "1992-05-26",
+    "endDate": "1993-02-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Ruw maar hartelijk - Duitse avant-garde meubelkunst"
+    },
+    "startDate": "1992-12-04",
+    "endDate": "1993-02-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Vormgeving en milieu"
+    },
+    "startDate": "1992-12-04",
+    "endDate": "1993-02-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Zilver in beweging"
+    },
+    "startDate": "1992-03-12",
+    "endDate": "1993-04-18"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Japanse Keramiek"
+    },
+    "startDate": "1992-03-12",
+    "endDate": "1993-04-18"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Sierkunst uit Malenesie"
+    },
+    "startDate": "1992-03-12",
+    "endDate": "1993-04-18"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Henry van de Velde, een Europees kunstenaar in zijn tijd"
+    },
+    "startDate": "1993-05-04",
+    "endDate": "1993-08-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kunstweven 20 jaar Textielinst.H.Story"
+    },
+    "startDate": "1993-08-15",
+    "endDate": "1993-09-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Zilver uit Mexico (Europalia 93)"
+    },
+    "startDate": "1993-09-27",
+    "endDate": "1993-12-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Geur in vormgeving"
+    },
+    "startDate": "1993-08-25",
+    "endDate": "1993-09-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "5 keramisten uit Kanazawa"
+    },
+    "startDate": "1993-09-08",
+    "endDate": "1993-09-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Italiaans zilver (1940-1960)"
+    },
+    "startDate": "1993-09-08",
+    "endDate": "1993-11-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1993-013",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Juwelen van Marion Herbst"
+    },
+    "startDate": "1993-11-05",
+    "endDate": "1993-12-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaags glas uit eigen kollekties"
+    },
+    "startDate": "1993-12-22",
+    "endDate": "1994-02-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Provinciale Prijs voor Glaskunsten fotografie"
+    },
+    "startDate": "1994-01-29",
+    "endDate": "1994-02-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Art is life (motorhelmen-internationaal)"
+    },
+    "startDate": "1994-02-24",
+    "endDate": "1994-04-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Oostenrijkse Juweelkunst"
+    },
+    "startDate": "1994-12-15",
+    "endDate": "1994-04-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Jan van der Vaart & Johan van Loon (keramiek)"
+    },
+    "startDate": "1994-02-24",
+    "endDate": "1994-04-10"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Emiel Veranneman - 50 jaar meubelcreaties"
+    },
+    "startDate": "1994-05-06",
+    "endDate": "1994-09-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Cammeeen"
+    },
+    "startDate": "1994-05-07",
+    "endDate": "1994-09-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Meubles d'en France"
+    },
+    "startDate": "1994-10-04",
+    "endDate": "1994-12-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Foret-meubles imaginaires"
+    },
+    "startDate": "1994-10-04",
+    "endDate": "1994-12-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Art-Net-Work-dimensies in lijnen-interlacing"
+    },
+    "startDate": "1994-10-04",
+    "endDate": "1994-12-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Glas van Floris Meydam"
+    },
+    "startDate": "1994-10-04",
+    "endDate": "1994-12-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1994-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Drukdecors op Maastrichts Aardewerk"
+    },
+    "startDate": "1994-10-04",
+    "endDate": "1994-12-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Henry van de Velde prijzen (94)"
+    },
+    "startDate": "1994-12-22",
+    "endDate": "1995-01-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Au Clair de la Lune-glas en zilver in dialoog"
+    },
+    "startDate": "1995-02-11",
+    "endDate": "1995-03-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Chris Van Der Hoef - Nieuwe kunst en art deco"
+    },
+    "startDate": "1995-02-11",
+    "endDate": "1995-03-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaage Japanse Juwelen"
+    },
+    "startDate": "1995-03-24",
+    "endDate": "1995-05-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Allan Wexler (USA)- Structures for reflexion"
+    },
+    "startDate": "1995-03-24",
+    "endDate": "1995-05-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kushi-Japanse kammen in lak"
+    },
+    "startDate": "1995-03-24",
+    "endDate": "1995-05-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Made in Holland - Nederlandse Design"
+    },
+    "startDate": "1995-05-23",
+    "endDate": "1995-09-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "22 Tapijten - Carpets - Teppice "
+    },
+    "startDate": "1995-09-30",
+    "endDate": "1995-11-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Kaj Franck"
+    },
+    "startDate": "1995-09-30",
+    "endDate": "1995-11-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1995-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "keramiek van Karin J\u00e4rvinen"
+    },
+    "startDate": "1995-09-30",
+    "endDate": "1995-11-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1996-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "1ste Tri\u00ebnnale voor Vormgeving in Vlaanderen"
+    },
+    "startDate": "1995-12-01",
+    "endDate": "1996-03-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1996-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Deense Keramiek. Museum Boymans-van-Beuningen"
+    },
+    "startDate": "1996-03-15",
+    "endDate": "1996-05-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1996-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Oostenrijk, Zweden en Finland: de nieuwe grenzen van de Glaskunst"
+    },
+    "startDate": "1996-03-15",
+    "endDate": "1996-05-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1996-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Deense keramiek uit eigen collect"
+    },
+    "startDate": "1996-03-15",
+    "endDate": "1996-05-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1996-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Jan Eisenloeffel, 1876-1957"
+    },
+    "startDate": "1996-06-22",
+    "endDate": "1996-09-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Murano-glas uit de 20ste eeuw"
+    },
+    "startDate": "1996-10-12",
+    "endDate": "1997-01-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Henry van de Velde prijzen (96)"
+    },
+    "startDate": "1996-11-29",
+    "endDate": "1997-01-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Design en Identiteit: aspecten van Europees design"
+    },
+    "startDate": "1997-02-22",
+    "endDate": "1997-05-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Nieuwe wegen in de Europese Keramiek"
+    },
+    "startDate": "1997-02-22",
+    "endDate": "1997-05-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Provinciale prijs keramiek"
+    },
+    "startDate": "1997-04-26",
+    "endDate": "1997-05-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Lakwerken uit Thailand, Birma en Sumatra"
+    },
+    "startDate": "1997-06-21",
+    "endDate": "1997-08-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Jenius"
+    },
+    "startDate": "1997-06-21",
+    "endDate": "1997-08-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Bullet-proof forms"
+    },
+    "startDate": "1997-06-21",
+    "endDate": "1997-08-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Japanse Netsuke"
+    },
+    "startDate": "1997-06-21",
+    "endDate": "1997-08-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1997-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Uit de reserves. Aspecten van de Art Nouveau-verzameling"
+    },
+    "startDate": "1997-09-13",
+    "endDate": "1997-11-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1998-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "In koeien van letters. 50 jaar grafische vormgeving in Vlaanderen"
+    },
+    "startDate": "1997-12-19",
+    "endDate": "1998-03-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1998-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Henry van de Velde-prijzen"
+    },
+    "startDate": "1997-12-19",
+    "endDate": "1998-03-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1998-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Das Sch\u00f6ne und der Alltag. Moderne Vormgeving 1900-1914"
+    },
+    "startDate": "1998-04-04",
+    "endDate": "1998-06-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1998-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Oceani\u00eb. Etnografische verzamelingen Universiteit Gent"
+    },
+    "startDate": "",
+    "endDate": "1998-10-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1998-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Re(f)use. Vormgeving en milieu"
+    },
+    "startDate": "1998-07-10",
+    "endDate": "1998-10-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1998-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Het EDELE labeur"
+    },
+    "startDate": "1998-07-10",
+    "endDate": "1998-10-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1998-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Thonet in stijl"
+    },
+    "startDate": "1998-10-10",
+    "endDate": "1998-12-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Op mens-en maat. 2e tri\u00ebnale voor vormgeving"
+    },
+    "startDate": "1998-12-19",
+    "endDate": "1999-02-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Andrea Bronzi"
+    },
+    "startDate": "1998-12-19",
+    "endDate": "1998-02-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "In en uit. De vormgevingslijn en het monumentale werk van L'Anverre"
+    },
+    "startDate": "1999-03-13",
+    "endDate": "1999-04-18"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Peter Opsvik: movement"
+    },
+    "startDate": "1999-05-01",
+    "endDate": "1999-06-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "5 x 5 stoelen + 5: de klassiekers van het Finse modernisme"
+    },
+    "startDate": "1999-06-26",
+    "endDate": "1999-09-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "De successen van Leerdam"
+    },
+    "startDate": "1999-06-26",
+    "endDate": "1999-09-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Het edele labeur"
+    },
+    "startDate": "1999-06-26",
+    "endDate": "1999-09-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Gejureerd en goed bevonden. Jonge ontwerpers stellen hun eerste prijs voor."
+    },
+    "startDate": "1999-10-09",
+    "endDate": "1999-12-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_1999-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Pierre Adrien Dapayat: art nouveau keramist"
+    },
+    "startDate": "1999-10-09",
+    "endDate": "1999-12-31"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2000-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Dansk Design "
+    },
+    "startDate": "2000-01-15",
+    "endDate": "2000-02-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2000-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "5XA/V: Hedendaagse architectuur uit Vlaanderen"
+    },
+    "startDate": "2000-04-01",
+    "endDate": "2000-05-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2000-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Glas: een eigenzinnige collectioneurskeze"
+    },
+    "startDate": "2000-04-01",
+    "endDate": "2000-05-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2000-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Een ontdekking"
+    },
+    "startDate": "2000-04-15",
+    "endDate": "2000-05-21"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2000-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Flora's Feast"
+    },
+    "startDate": "2000-04-21",
+    "endDate": "2000-05-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2000-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Magie van de Edelsmeedkunst"
+    },
+    "startDate": "2000-06-17",
+    "endDate": "2000-11-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2000-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Belgian Excellence"
+    },
+    "startDate": "2000-09-23",
+    "endDate": "2000-12-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2000-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "De schitterende schatkist"
+    },
+    "startDate": "2000-10-30",
+    "endDate": "2000-11-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2001-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Met Piet Stockmans aan tafel"
+    },
+    "startDate": "2000-11-25",
+    "endDate": "2001-01-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2001-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "100 jaar vormgeving in Vlaanderen"
+    },
+    "startDate": "2001-02-17",
+    "endDate": "2001-04-08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2001-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Konstantin Melnikove en de architectuur in Moskou"
+    },
+    "startDate": "2001-04-27",
+    "endDate": "2001-06-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2001-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "250 jaar Academie voor Schone Kunsten"
+    },
+    "startDate": "2001-04-27",
+    "endDate": "2001-06-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2001-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Belgie - Nederland: een overzicht van 50 jaar juweelkunst"
+    },
+    "startDate": "2001-07-13",
+    "endDate": "2001-09-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2001-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Lakkunst uit China"
+    },
+    "startDate": "2001-10-06",
+    "endDate": "2001-12-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2001-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Begeerlijk Zilver"
+    },
+    "startDate": "2001-10-06",
+    "endDate": "2001-12-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2001-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Museum voor Sierkunst"
+      }
+    },
+    "name": {
+      "nl": "Hedendaagse Juweelkunst uit Litouwen "
+    },
+    "startDate": "2001-10-06",
+    "endDate": "2001-12-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2002-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Komt dat zien"
+    },
+    "startDate": "2001-12-05",
+    "endDate": "2002-02-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2002-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Tapio Wikkala"
+    },
+    "startDate": "2002-03-22",
+    "endDate": "2002-06-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2002-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Unika"
+    },
+    "startDate": "2002-03-22",
+    "endDate": "2002-05-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2002-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "100% vazen"
+    },
+    "startDate": "2002-06-21",
+    "endDate": "2002-09-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2002-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "100 jaar - 100 stoelen"
+    },
+    "startDate": "2002-06-21",
+    "endDate": "2002-09-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2003-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Gerard Rothmann - Amulet und Talisman"
+    },
+    "startDate": "2002-11-09",
+    "endDate": "2003-02-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2003-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Van bakeliet tot composiet"
+    },
+    "startDate": "2002-11-09",
+    "endDate": "2003-02-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2003-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hommage aan Stelton thermoskan"
+    },
+    "startDate": "2003-03-29",
+    "endDate": "2003-06-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2003-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Gestroomlijnd zilver van Gustav Beran"
+    },
+    "startDate": "2003-03-29",
+    "endDate": "2003-06-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2003-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Clair Bataille & Paul Ibens"
+    },
+    "startDate": "2003-03-29",
+    "endDate": "2003-06-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2003-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Gaston Eysselinck (1907-1953)"
+    },
+    "startDate": "2003-10-31",
+    "endDate": "2003-12-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2003-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Frantisek Vizner"
+    },
+    "startDate": "2003-10-31",
+    "endDate": "2003-12-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2003-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Davuid Huycke - Korpus"
+    },
+    "startDate": "2003-10-31",
+    "endDate": "2003-12-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2004-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "100 jaar - 100 mensen - 100 objecten"
+    },
+    "startDate": "2003-12-20",
+    "endDate": "2004-02-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2004-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Tea & Coffee Towers"
+    },
+    "startDate": "2004-03-20",
+    "endDate": "2004-06-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2004-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Werk van Tine De Ruysser en Ben Van Orshaegen"
+    },
+    "startDate": "2004-07-02",
+    "endDate": "2004-09-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2004-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Met Licht van Zilver"
+    },
+    "startDate": "2004-07-02",
+    "endDate": "2004-09-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2004-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Scandinavisch design uit eigen collectie"
+    },
+    "startDate": "2004-07-02",
+    "endDate": "2004-09-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2004-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Scandinavisch design"
+    },
+    "startDate": "2004-07-02",
+    "endDate": "2004-07-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2004-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Jo Crepain"
+    },
+    "startDate": "2004-10-09",
+    "endDate": "2004-11-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2004-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Electrolux Design Laboratory"
+    },
+    "startDate": "2004-10-12",
+    "endDate": "2004-11-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2005-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Maarten Van Severen"
+    },
+    "startDate": "2004-12-18",
+    "endDate": "2005-02-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2005-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Airworld"
+    },
+    "startDate": "2005-03-18",
+    "endDate": "2005-06-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2005-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Tupperware"
+    },
+    "startDate": "2005-07-02",
+    "endDate": "2005-09-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2005-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Fantasy Design"
+    },
+    "startDate": "2005-07-02",
+    "endDate": "2005-09-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Een 17de-eeuws Vlaams cantoor"
+    },
+    "startDate": "2005-10-22",
+    "endDate": "2006-01-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Extreme North"
+    },
+    "startDate": "2005-10-28",
+    "endDate": "2006-04-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Ingepakt - UItgepakt"
+    },
+    "startDate": "2005-10-28",
+    "endDate": "2006-04-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Nancy Still"
+    },
+    "startDate": "2006-02-11",
+    "endDate": "2006-04-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Geo Henderick"
+    },
+    "startDate": "2006-02-11",
+    "endDate": "2006-04-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Enthoven Associates"
+    },
+    "startDate": "2006-04-28",
+    "endDate": "2006-06-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Toyo Ito"
+    },
+    "startDate": "2006-04-28",
+    "endDate": "2006-06-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Amphora"
+    },
+    "startDate": "2006-04-28",
+    "endDate": "2006-06-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Borek \u0160\u00edpek"
+    },
+    "startDate": "2006-07-08",
+    "endDate": "2006-09-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Communicatie"
+    },
+    "startDate": "2006-07-08",
+    "endDate": "2006-11-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Compasso d'Oro"
+    },
+    "startDate": "2006-10-07",
+    "endDate": "2006-11-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2006-013",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Water Kan!"
+    },
+    "startDate": "2006-10-28",
+    "endDate": "2006-11-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2007-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Louis, Philippe & Marcel Wolfers"
+    },
+    "startDate": "2006-12-16",
+    "endDate": "2007-04-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2007-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Marimekko"
+    },
+    "startDate": "2006-12-16",
+    "endDate": "2007-04-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2007-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Dark"
+    },
+    "startDate": "2006-12-16",
+    "endDate": "2007-04-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2007-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "AJOUR. Juweel uit beeld."
+    },
+    "startDate": "2006-12-16",
+    "endDate": "2007-04-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2007-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Kitsch, Camp of Design?"
+    },
+    "startDate": "2007-04-28",
+    "endDate": "2007-06-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2007-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hommage aan Charles Eames"
+    },
+    "startDate": "2007-06-17",
+    "endDate": "2007-09-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2007-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Esth\u00e9tique Domestique"
+    },
+    "startDate": "2007-06-17",
+    "endDate": "2007-09-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2007-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Henry van de Velde"
+    },
+    "startDate": "2007-06-17",
+    "endDate": "2007-09-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Christophe Dresser "
+    },
+    "startDate": "2007-10-13",
+    "endDate": "2008-01-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Ettore Sottsass"
+    },
+    "startDate": "2007-10-13",
+    "endDate": "2008-01-31"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Challenging the ch\u00e2telaine!"
+    },
+    "startDate": "2008-02-09",
+    "endDate": "2008-04-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Nedda El-Asmar"
+    },
+    "startDate": "2008-02-09",
+    "endDate": "2008-04-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De kleuren van Thee"
+    },
+    "startDate": "2008-02-09",
+    "endDate": "2008-04-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "20 jaar Theo-design"
+    },
+    "startDate": "2008-02-09",
+    "endDate": "2008-04-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Voices"
+    },
+    "startDate": "2008-05-17",
+    "endDate": "2008-06-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "glas uit de collectie Dirk Schrijvers"
+    },
+    "startDate": "2008-05-17",
+    "endDate": "2008-06-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Conversation-conservation"
+    },
+    "startDate": "2008-05-17",
+    "endDate": "2008-06-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Design uit Fifties & Sixties "
+    },
+    "startDate": "2008-07-11",
+    "endDate": "2008-10-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Design with a smile"
+    },
+    "startDate": "2008-07-11",
+    "endDate": "2008-10-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hans Wegner"
+    },
+    "startDate": "2008-07-11",
+    "endDate": "2008-10-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-013",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Helena Schepens"
+    },
+    "startDate": "2008-07-11",
+    "endDate": "2008-08-31"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2008-014",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hella Jongerius"
+    },
+    "startDate": "2008-09-06",
+    "endDate": "2008-10-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hermann J\u00fcnger"
+    },
+    "startDate": "2008-11-08",
+    "endDate": "2009-01-25"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "100 jaar Demeyere"
+    },
+    "startDate": "2008-11-08",
+    "endDate": "2009-02-08"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "En iederen ging op zijn mieren zitten"
+    },
+    "startDate": "2008-11-08",
+    "endDate": "2009-03-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De stoel verBEELD"
+    },
+    "startDate": "2008-11-08",
+    "endDate": "2009-03-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Shalom I Salaam"
+    },
+    "startDate": "2008-11-22",
+    "endDate": "2009-02-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Verbindingen"
+    },
+    "startDate": "2009-03-21",
+    "endDate": "2009-06-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Cool Dozen +"
+    },
+    "startDate": "2009-03-21",
+    "endDate": "2009-06-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Henry van de Velde"
+    },
+    "startDate": "2009-05-21",
+    "endDate": "2009-06-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Yrj\u00f6 Kukkapuro"
+    },
+    "startDate": "2009-07-04",
+    "endDate": "2009-10-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Keramiek van Raoul Dufy"
+    },
+    "startDate": "2009-07-04",
+    "endDate": "2009-10-11"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2009-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Schoonhoven Silver Award 2009"
+    },
+    "startDate": "2009-07-04",
+    "endDate": "2009-09-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Artel"
+    },
+    "startDate": "2009-10-31",
+    "endDate": "2010-02-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Siegfried De Buck"
+    },
+    "startDate": "2009-10-31",
+    "endDate": "2010-02-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Verdwenen uit de DDR"
+    },
+    "startDate": "2009-10-31",
+    "endDate": "2010-02-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Richard Hutten"
+    },
+    "startDate": "2010-02-26",
+    "endDate": "2010-06-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "The Scandanavian Touch in Belgian Furniture"
+    },
+    "startDate": "2010-02-26",
+    "endDate": "2010-06-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Transit Cases: stoelen uit Mexico"
+    },
+    "startDate": "2010-03-31",
+    "endDate": "2010-06-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De stille kracht van thee"
+    },
+    "startDate": "2010-05-29",
+    "endDate": "2010-08-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De best verzorgde boeken"
+    },
+    "startDate": "2010-06-04",
+    "endDate": "2010-09-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Piet(er) Stockmans"
+    },
+    "startDate": "2010-07-03",
+    "endDate": "2010-10-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Super Normal: Sensations of the ordinary"
+    },
+    "startDate": "2010-07-03",
+    "endDate": "2010-10-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2010-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Nilton Cunha"
+    },
+    "startDate": "2010-07-03",
+    "endDate": "2010-10-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2011-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De stoel .03 van Maarten Van Severen"
+    },
+    "startDate": "2010-11-20",
+    "endDate": "2011-02-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2011-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Art nouveau en art deco uit Nederland"
+    },
+    "startDate": "2010-11-20",
+    "endDate": "2011-02-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2011-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Fantasy Design"
+    },
+    "startDate": "2011-03-12",
+    "endDate": "2011-06-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2011-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "L'objet Sublime"
+    },
+    "startDate": "2011-03-26",
+    "endDate": "2011-06-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2011-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De Best Vormgegeven Boeken 2011"
+    },
+    "startDate": "2011-04-22",
+    "endDate": "2011-06-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2011-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Esprit Porcelaine"
+    },
+    "startDate": "2011-07-09",
+    "endDate": "2011-10-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2011-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Die Essenz der Dinge"
+    },
+    "startDate": "2011-07-09",
+    "endDate": "2011-10-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2011-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Johanna Dahm"
+    },
+    "startDate": "2011-07-09",
+    "endDate": "2011-10-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2012-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Kaj Frank"
+    },
+    "startDate": "2011-11-19",
+    "endDate": "2012-02-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2012-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Coca-Cola: 125 jaar design"
+    },
+    "startDate": "2011-11-19",
+    "endDate": "2012-02-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2012-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Dirk Wynants"
+    },
+    "startDate": "2012-03-31",
+    "endDate": "2012-06-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2012-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Barbara Nanning"
+    },
+    "startDate": "2012-03-31",
+    "endDate": "2012-06-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2012-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Tafelgesprekken"
+    },
+    "startDate": "2012-03-31",
+    "endDate": "2012-06-03"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2012-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De Best Vormgegeven Boeken 2012"
+    },
+    "startDate": "2012-06-04",
+    "endDate": "2012-08-31"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2012-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Pieter De Bruyne (1931-1987)"
+    },
+    "startDate": "2012-07-07",
+    "endDate": "2012-10-21"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2012-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Destroy/Design"
+    },
+    "startDate": "2012-07-07",
+    "endDate": "2012-10-21"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2013-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Shiro Kuramata (1934-1991)"
+    },
+    "startDate": "2012-11-24",
+    "endDate": "2013-02-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2013-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Schoonhoven Silver Award 2012"
+    },
+    "startDate": "2012-11-24",
+    "endDate": "2013-02-24"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2013-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "D.E.S.I.G.N."
+    },
+    "startDate": "2013-03-23",
+    "endDate": "2013-06-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2013-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Architecten en zilver"
+    },
+    "startDate": "2013-03-25",
+    "endDate": "2013-06-09"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2013-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Peter De Greef (1901-1985)"
+    },
+    "startDate": "2013-07-19",
+    "endDate": "2013-10-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2013-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Peter Behrens"
+    },
+    "startDate": "2013-07-19",
+    "endDate": "2013-10-27"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2014-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Gelinkt: de collectie netwerkt"
+    },
+    "startDate": "2013-11-28",
+    "endDate": "2014-03-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2014-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Seguso Vetri d'Arte (1932-1973)"
+    },
+    "startDate": "2013-11-28",
+    "endDate": "2014-03-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2014-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Brilliant by Design"
+    },
+    "startDate": "2014-03-29",
+    "endDate": "2014-06-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2014-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Dyson Design"
+    },
+    "startDate": "2014-03-29",
+    "endDate": "2014-06-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2014-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Finn Juhl, een Deens designicoon"
+    },
+    "startDate": "2014-07-05",
+    "endDate": "2014-10-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2014-012",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "No Design to Waste"
+    },
+    "startDate": "2014-07-05",
+    "endDate": "2014-10-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De Collectie Alonso"
+    },
+    "startDate": "2005-10-28",
+    "endDate": "2015-09-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Lightoptia"
+    },
+    "startDate": "2014-11-15",
+    "endDate": "2015-03-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Kunststof natuurlijk"
+    },
+    "startDate": "2015-04-03",
+    "endDate": "2015-04-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Provinciale Prijs voor Vormgeving 2014"
+    },
+    "startDate": "2015-04-03",
+    "endDate": "2015-06-28"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Van Vlinders en Mieren"
+    },
+    "startDate": "2015-04-03",
+    "endDate": "2015-09-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Natuurlijk Jong!"
+    },
+    "startDate": "2015-04-03",
+    "endDate": "2015-09-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "De Invasie toont"
+    },
+    "startDate": "2015-06-08",
+    "endDate": "2015-09-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Sanny Winters - Gent Xtra Bold"
+    },
+    "startDate": "2015-06-22",
+    "endDate": "2015-09-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "7 cool architects"
+    },
+    "startDate": "2015-07-16",
+    "endDate": "2015-09-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2015-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Maarten Van Severen en Co"
+    },
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2016-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Design Derby BE/NL 1815-2015"
+    },
+    "startDate": "2015-10-23",
+    "endDate": "2016-03-13"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2016-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Design BE/NL 2.0 - Handelingen uit het dagelijks leven"
+    },
+    "startDate": "2016-03-14",
+    "endDate": "2016-06-12"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2016-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Japon, l'archipel de la maison"
+    },
+    "startDate": "2016-03-25",
+    "endDate": "2016-06-19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2016-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Bike to the Future"
+    },
+    "startDate": "2016-03-25",
+    "endDate": "2016-10-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2016-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "UNFOLD. The transaction project, blown glass in printed ceramics"
+    },
+    "startDate": "2016-07-08",
+    "endDate": "2016-10-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2016-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Een neubel is ook een huis"
+    },
+    "startDate": "2016-07-08",
+    "endDate": "2016-10-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Generatie-in-terviews"
+    },
+    "startDate": "2016-11-19",
+    "endDate": "2017-03-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hands on Design"
+    },
+    "startDate": "2016-11-19",
+    "endDate": "2017-03-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Reactiviate design"
+    },
+    "startDate": "2017-03-31",
+    "endDate": "2017-05-07"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Rechts / Averechts"
+    },
+    "startDate": "2017-03-31",
+    "endDate": "2017-10-01"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Filip Dujardin: Accumualtion d'\u00c9poque #2"
+    },
+    "startDate": "2017-05-19",
+    "endDate": "2017-07-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Moritz K\u00fcng: Selecci\u00f3n Natural - This is the Cover of the Book"
+    },
+    "startDate": "2017-05-19",
+    "endDate": "2017-06-23"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Gestalte/Grafische vormgeving: Collect & Show"
+    },
+    "startDate": "2017-05-19",
+    "endDate": "2017-09-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "019 - Museum of Moving Practice"
+    },
+    "startDate": "2017-05-19",
+    "endDate": "2017-09-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Karel Martens"
+    },
+    "startDate": "2017-06-29",
+    "endDate": "2017-07-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Absence Makes The Hearth Grow Fonder"
+    },
+    "startDate": "2017-08-10",
+    "endDate": "2017-08-26"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2017-011",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "019 - Museum of Moving Practice IV"
+    },
+    "startDate": "2017-09-01",
+    "endDate": "2017-09-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Collectie in progress"
+    },
+    "startDate": "2016-05-18",
+    "endDate": "2018-04-02"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Alonso International Glass Collection"
+    },
+    "startDate": "2016-07-08",
+    "endDate": "2018-01-21"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Out of the box"
+    },
+    "startDate": "2017-10-07",
+    "endDate": "2018-01-21"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Unfold - Designer van het Jaar 2017"
+    },
+    "startDate": "2017-10-27",
+    "endDate": "2018-03-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hello, Robot."
+    },
+    "startDate": "2017-10-27",
+    "endDate": "2018-04-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Level"
+    },
+    "startDate": "2018-01-31",
+    "endDate": "2018-05-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-007",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Disarming Design from Palestine"
+    },
+    "startDate": "2018-02-16",
+    "endDate": "2018-04-15"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-008",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Po\u00e8me Brut"
+    },
+    "startDate": "2018-03-30",
+    "endDate": "2018-11-04"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-009",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Object Stories"
+    },
+    "startDate": "2018-05-18",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2018-010",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Maarten Baas"
+    },
+    "startDate": "2018-05-18",
+    "endDate": "2018-09-30"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2019-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Vol+maakt"
+    },
+    "startDate": "2018-09-14",
+    "endDate": "2019-01-06"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2019-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Fibre-Fixed"
+    },
+    "startDate": "2018-10-26",
+    "endDate": "2019-04-22"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2019-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hommage(s)"
+    },
+    "startDate": "2018-11-16",
+    "endDate": "2019-03-17"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2019-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Diffusion"
+    },
+    "startDate": "2019-02-01",
+    "endDate": "2019-04-14"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2019-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Belgian Design: Generous Nature"
+    },
+    "startDate": "2019-05-17",
+    "endDate": "2019-09-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2019-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Dieren op maat"
+    },
+    "startDate": "2019-05-17",
+    "endDate": "2019-09-29"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2020-001",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Hybrid Heads"
+    },
+    "startDate": "2019-04-05",
+    "endDate": "2020-01-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2020-002",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Ensembles"
+    },
+    "startDate": "2019-04-27",
+    "endDate": "2020-01-05"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2020-003",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Phantom Radio"
+    },
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2020-004",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Lina Bo Bardi - Giancarlo Palantie"
+    },
+    "startDate": "2019-10-25",
+    "endDate": "2020-02-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2020-005",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Off the Grid"
+    },
+    "startDate": "2019-10-25",
+    "endDate": "2020-02-16"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "identifier": "TE_2020-006",
+    "location": {
+      "@type": "Place",
+      "name": {
+        "nl": "Design Museum Gent"
+      }
+    },
+    "name": {
+      "nl": "Kleureyck"
+    },
+    "startDate": "2020-03-13",
+    "endDate": "2020-09-06"
+  }
+]
